@@ -1,0 +1,4 @@
+Ruta 1 | costo 30 | A -> B -> D
+Ruta 2 | costo 29 | A -> B -> C -> D
+Ruta 3 | costo 28 | A -> B -> B -> D
+Ruta 4 | costo 30 | A -> B -> D
